@@ -1,0 +1,74 @@
+My List of Topics:
+
+1.Classes and objects
+2.Data Members and Member functions
+3.Access Modifiers or specifiers
+4.Getter and Setter
+5.Static and Dynamic Memory Allocation
+6. this pointer
+7.Constructor -> Default,Copy and Parameterised
+8.Static Keyword and static functions
+9.Encapsulation
+10.polymorphism
+11.Inheritance
+12.Abstraction
+13.virtual and pure virtual functions
+
+pending
+copy constructor
+Shallow and Deep Copy
+
+
+
+
+1. Classes and Objects
+2. Encapsulation
+3. Abstraction
+4. Inheritance
+5. Polymorphism
+6. Constructors and Destructors
+7. Access Specifiers (public, private, protected)
+8. Friend Functions
+9. Operator Overloading
+10. Function Overloading
+11. Virtual Functions and Pure Virtual Functions
+12. Templates (Class and Function Templates)
+13. Static Members
+14. Dynamic Memory Allocation
+15. Copy Constructor
+16. This Pointer
+17. Namespace
+
+
+C++ OOP Topics
+
+1) Classes & Objects
+2) Access Specifiers (public / private / protected)
+3) Encapsulation (getters/setters, friend function/class)
+4) Abstraction (abstract classes, pure virtual functions)
+5) Inheritance
+   - Single, Multiple, Multilevel, Hierarchical, Hybrid
+   - Inheritance access (public/protected/private)
+   - Constructor/Destructor order in inheritance
+   - Virtual inheritance & Diamond problem
+6) Polymorphism
+   - Compile-time: function overloading, constructor overloading, operator overloading
+   - Run-time: virtual functions, overriding, base pointer/reference, dynamic_cast & RTTI
+   - Keywords: override, final, virtual destructor, covariant return
+7) Constructors & Destructors
+   - Default, Parameterized, Delegating
+   - Copy constructor, Copy assignment
+   - Move constructor, Move assignment (Rule of 3/5/0)
+8) Static Members
+   - Static data members, Static member functions
+9) this Pointer
+10) Const-Correctness
+    - const objects, const member functions, mutable members
+11) Operator Overloading
+    - Arithmetic, Comparison, Stream (<<, >>)
+12) Object Relationships
+    - Association, Aggregation, Composition (composition vs inheritance)
+13) RAII & Object Lifetime (resource management via constructors/destructors)
+14) Virtual Table (vptr/vtable) concept (how runtime polymorphism works)
+15) Interfaces in C++ (pure-virtual-only classes; multiple interface inheritance)
+16) Design Principles (SOLID) – optional but useful
