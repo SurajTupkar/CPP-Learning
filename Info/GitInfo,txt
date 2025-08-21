@@ -1,0 +1,5 @@
+Command to puch code on GitHub.
+
+git add .
+git commit -m "message"
+git push
