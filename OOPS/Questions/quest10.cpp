@@ -18,7 +18,7 @@ class Employee{
     public:
     virtual void calculateSalary()=0;
  
-    
+
 
 };
 
@@ -27,8 +27,6 @@ class Developer:public Employee{
     void calculateSalary(){
         cout<<"getSalary from derived Developer class"<<endl;
     }
-
-  
 
 };
 
